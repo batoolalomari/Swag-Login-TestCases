@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-30T17:26:28 EET" name="Default suite" finished-at="2024-05-30T17:26:47 EET" duration-ms="19080">
+    <groups>
+    </groups>
+    <test started-at="2024-05-30T17:26:28 EET" name="Default test" finished-at="2024-05-30T17:26:47 EET" duration-ms="19080">
+      <class name="FirstAutoTestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:FirstAutoTestCases@9ef8eb7]" started-at="2024-05-30T17:26:28 EET" name="setUp" finished-at="2024-05-30T17:26:33 EET" duration-ms="4619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logIn()[pri:1, instance:FirstAutoTestCases@9ef8eb7]" started-at="2024-05-30T17:26:33 EET" name="logIn" finished-at="2024-05-30T17:26:35 EET" duration-ms="1701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="firstTestCases()[pri:2, instance:FirstAutoTestCases@9ef8eb7]" started-at="2024-05-30T17:26:35 EET" name="firstTestCases" finished-at="2024-05-30T17:26:36 EET" duration-ms="1694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestCases -->
+        <test-method signature="removeFirstItem()[pri:3, instance:FirstAutoTestCases@9ef8eb7]" started-at="2024-05-30T17:26:36 EET" name="removeFirstItem" finished-at="2024-05-30T17:26:41 EET" duration-ms="4694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeFirstItem -->
+        <test-method signature="checkCart()[pri:4, instance:FirstAutoTestCases@9ef8eb7]" started-at="2024-05-30T17:26:41 EET" name="checkCart" finished-at="2024-05-30T17:26:45 EET" duration-ms="3677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCart -->
+        <test-method signature="addItemandLogout()[pri:5, instance:FirstAutoTestCases@9ef8eb7]" started-at="2024-05-30T17:26:45 EET" name="addItemandLogout" finished-at="2024-05-30T17:26:47 EET" duration-ms="2660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemandLogout -->
+      </class> <!-- FirstAutoTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
